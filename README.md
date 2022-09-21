@@ -9,7 +9,7 @@ This is the official repo of the paper [BehancePR: A punctuation restoration dat
 TODO
 
 
-## Citatioin
+## Citation
 ```
 @inproceedings{lai2022behancepr,
   title={Behancepr: A punctuation restoration dataset for livestreaming video transcript},
